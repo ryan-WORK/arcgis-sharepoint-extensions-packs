@@ -1,0 +1,18 @@
+{
+	"name": "YOUR-EXTENSION-PACK",
+    "description": "YOUR-EXTENSION-PACK description",
+    "tools": [{
+        "name": "YOUR-EXTENSION-PACK",
+        "location": "./extensions/YourTool.js",
+        "label": "YOUR TOOL",
+        "tooltip": "YOUR TOOL",
+		"description": "YOUR TOOL description",
+		"thumbnailUrl": "/Template/images/check1.png"
+    }],
+    "behaviors": [{
+        "name": "YourBehavior",
+        "location": "./extensions/YourBehavior.js",
+		"label": "YourBehavior",
+		"description": "Your Behavior description"
+    }]
+}
